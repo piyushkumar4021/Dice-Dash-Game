@@ -22,7 +22,6 @@ const randomNumber = function () {
 btnRoll.addEventListener("click", function () {
   if (playing) {
     const diceNumber = randomNumber();
-    console.log(diceNumber);
 
     diceEl.classList.remove("hidden");
     diceEl.src = `img/dice-${diceNumber}.png`;
