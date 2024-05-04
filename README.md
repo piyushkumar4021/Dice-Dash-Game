@@ -1,4 +1,5 @@
 ![Game Image](/img/game-demo.png)
+Site Link :- [https://dice-dash-game.netlify.app/](https://dice-dash-game.netlify.app/)
 # Dice-Dash-Game
 Welcome to Dice Dash Challenge, an exciting dice game where players compete to reach a score of 50 before their opponent does! 
 Get ready for a thrilling journey of luck and strategy as you roll the dice and race towards victory.
